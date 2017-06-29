@@ -1,36 +1,38 @@
 .card {
-	width: 480 px;
+	width: 400 px;
 	height: 755 px;
 	border: solid rgb(212, 212, 212) 1px;
-	max-width: 480 px;
+	max-width: 400 px;
 	max-height: 755 px;
 	display: inline-block;
 	padding-right: 15px;
 	padding-left: 15px;
 	box-shadow: 8px 8px 3px 0px rgb(233, 233, 233);
 }
+
 h3 {
 	margin-top: 30px;
 	font-size: 30px;
 }
 
 img {
-	width: 450;
+	width: 300px;
 	height: 300px;
 }
 .content {
 	margin-top: 15px;
 	margin-bottom: 15px;
-	width: 450px;
+	width: 300px;
 	height: 320px;
 	border: solid rgb(212, 212, 212) 1px;
+
 }
 
 li {
 	list-style: none;
 	margin-left: -22px;
-	font-size: 18px;
 	line-height: 1.25;
+	font-size: 15px;
 }
 
 span {
@@ -41,9 +43,10 @@ p {
 	margin-left: 15px;
 	margin-right: 20px;
 	line-height: 1.25;
-	font-size: 18px;
+	font-size: 15px;
 }
 
 #interestingfact {
-	font-size: 18px;
+	font-size: 15px;
+	font-style: italic;
 }
