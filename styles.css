@@ -1,8 +1,8 @@
 .card {
-	width: 400px;
+	width: 310px;
 	height: 755px;
 	border: solid rgb(212, 212, 212) 1px;
-	max-width: 400px;
+	max-width: 310px;
 	max-height: 755px;
 	display: inline-block;
 	padding-right: 15px;
